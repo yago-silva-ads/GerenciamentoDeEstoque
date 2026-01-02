@@ -1,11 +1,5 @@
-# 1. SEGURANÇA: Ignorar o arquivo que contém nossa senha!
-
 db.properties
 
-# 2. LIMPEZA: Ignorar arquivos de configuração e pastas do Eclipse
-
 .metadata/ bin/ .classpath .project .settings/
-
-# 3. BIBLIOTECAS: Ignorar pastas de bibliotecas (Jars)
 
 lib/ *.jar
