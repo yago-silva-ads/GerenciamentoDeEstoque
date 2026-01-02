@@ -43,17 +43,11 @@ Driver de Conexão: MySQL Connector/J (JDBC)
 Segurança: As senhas e credenciais do banco são gerenciadas externamente através de um arquivo .properties (não incluso no repositório por segurança).
 
 🚀 Como Rodar o Projeto
-
 Para executar este projeto na sua máquina local, siga os passos:
 
-
-
-Clone o repositório:
-
-
-
-git clone \[https://github.com/yago-silva-ads/GerenciamentoDeEstoque.git](https://github.com/yago-silva-ads/GerenciamentoDeEstoque.git)
-
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/yago-silva-ads/GerenciamentoDeEstoque.git](https://github.com/yago-silva-ads/GerenciamentoDeEstoque.git)
 Banco de Dados:
 
 Execute o script SQL abaixo no seu MySQL Workbench para criar a tabela:
@@ -99,5 +93,6 @@ Importe o projeto no Eclipse.
 Adicione o mysql-connector-j-X.X.XX.jar ao Build Path do projeto.
 
 Execute o arquivo SistemaDeEstoque.java.
+
 
 
