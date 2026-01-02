@@ -44,11 +44,9 @@ Segurança: As senhas e credenciais do banco são gerenciadas externamente atrav
 
 🚀 Como Rodar o Projeto
 Para executar este projeto na sua máquina local, siga os passos:
-
-1. **Clone o repositório:**
-   ```bash
   # Para clonar o repositório, use o comando abaixo:
 git clone https://github.com/yago-silva-ads/GerenciamentoDeEstoque.git
+
 Banco de Dados:
 
 Execute o script SQL abaixo no seu MySQL Workbench para criar a tabela:
@@ -94,6 +92,7 @@ Importe o projeto no Eclipse.
 Adicione o mysql-connector-j-X.X.XX.jar ao Build Path do projeto.
 
 Execute o arquivo SistemaDeEstoque.java.
+
 
 
 
